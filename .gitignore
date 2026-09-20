@@ -1,0 +1,54 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python build
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Large ML/model files
+*.pt
+*.pth
+*.onnx
+
+# Generated/output files
+output/
+outputs/
+results/
+runs/
+
+# Temporary files
+tmp/
+temp/
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
